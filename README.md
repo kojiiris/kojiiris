@@ -1,6 +1,8 @@
 <div align="center">
   
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0b0e14,50:1a1b2e,100:bb9af7&text=localhost&fontColor=c0caf5&fontSize=58&fontAlignY=48&animation=fadeIn" />
+<p align="center">
+  <img src="add/c7c2811ac73d6b84fb4041c8338b4307.jpg" width="100%" alt="Banner" />
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=900&color=BB9AF7&center=true&vCenter=true&width=480&lines=loading+%2Fhome%2Fdev...;initializing+environment...;ready." />
 
