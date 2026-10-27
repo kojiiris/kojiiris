@@ -78,6 +78,6 @@ dev@localhost ~ % _
 
 <div align="center">
 
-<sub>東京 · 127.0.0.1 · EOF</sub>
+<sub>Fall seven times, get up eight.</sub>
 
 </div>
